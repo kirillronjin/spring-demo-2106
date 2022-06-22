@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="spring-demo21-06.spring-demo21-06.main" target="17" />
+      <module name="spring-demo21-06.spring-demo21-06.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
